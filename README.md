@@ -1,1 +1,2 @@
-Some basics of python is practices here.
+# Python Proramming fundamental
+This repository contains structed implementation of core Python Programming concepts with both practical coding and conceptual reasoning.
