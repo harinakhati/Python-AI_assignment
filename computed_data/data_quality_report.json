@@ -1,0 +1,108 @@
+{
+    "students_raw.csv": {
+        "id": {
+            "missing": 0,
+            "invalid": 0
+        },
+        "marks": {
+            "missing": 2,
+            "invalid": 1
+        }
+    },
+    "credentials.csv": {},
+    "inventory_t1.csv": {
+        "quantity": {
+            "missing": 0,
+            "invalid": 0
+        }
+    },
+    "inventory_t2.csv": {
+        "quantity": {
+            "missing": 0,
+            "invalid": 0
+        }
+    },
+    "clean_students_raw.csv": {
+        "id": {
+            "missing": 0,
+            "invalid": 0
+        },
+        "marks": {
+            "missing": 0,
+            "invalid": 0
+        }
+    },
+    "clean_credentials.csv": {},
+    "clean_inventory_t1.csv": {
+        "quantity": {
+            "missing": 0,
+            "invalid": 0
+        }
+    },
+    "clean_inventory_t2.csv": {
+        "quantity": {
+            "missing": 0,
+            "invalid": 0
+        }
+    },
+    "clean_clean_students_raw.csv": {
+        "id": {
+            "missing": 0,
+            "invalid": 0
+        },
+        "marks": {
+            "missing": 0,
+            "invalid": 0
+        }
+    },
+    "clean_clean_credentials.csv": {},
+    "clean_clean_inventory_t1.csv": {
+        "quantity": {
+            "missing": 0,
+            "invalid": 0
+        }
+    },
+    "clean_clean_inventory_t2.csv": {
+        "quantity": {
+            "missing": 0,
+            "invalid": 0
+        }
+    },
+    "clean_clean_clean_students_raw.csv": {
+        "id": {
+            "missing": 0,
+            "invalid": 0
+        },
+        "marks": {
+            "missing": 0,
+            "invalid": 0
+        }
+    },
+    "clean_clean_clean_credentials.csv": {},
+    "clean_clean_clean_inventory_t1.csv": {
+        "quantity": {
+            "missing": 0,
+            "invalid": 0
+        }
+    },
+    "clean_clean_clean_inventory_t2.csv": {
+        "quantity": {
+            "missing": 0,
+            "invalid": 0
+        }
+    },
+    "clean_clean_clean_clean_students_raw.csv": {
+        "id": {
+            "missing": 0,
+            "invalid": 0
+        },
+        "marks": {
+            "missing": 0,
+            "invalid": 0
+        }
+    },
+    "c.csv": {},
+    "clean_c.csv": {},
+    "clean_clean_c.csv": {},
+    "clean_clean_clean_c.csv": {}
+}
