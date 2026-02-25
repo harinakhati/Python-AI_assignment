@@ -14,6 +14,8 @@ import json
 
 input_directory = "/home/marie/code/Python-AI_assignment/assignment_data"
 report = {}
+output_directory = "computed_data"
+os.makedirs(output_directory, exist_ok=True)
 
 for root, dirs, files in os.walk(input_directory):
     for filename in files:
@@ -91,7 +93,7 @@ for root, dirs, files in os.walk(input_directory):
                             row[column] = str(means[column])
 
             clean_filename = "clean_" +filename
-            clean_path = os.path.join(root, clean_filename)
+            clean_path = os.path.join(output_directory, clean_filename)
 
             with open(clean_path, "w", newline="") as file:
                 writer = csv.DictWriter(file, fieldnames=fieldnames)
