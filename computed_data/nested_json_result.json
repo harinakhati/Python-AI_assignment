@@ -1,0 +1,22 @@
+{
+    "users_with_target_action": [],
+    "action_counts": {
+        "logout": 1143,
+        "login": 1574,
+        "purchase": 1373
+    },
+    "sorted_actions": [
+        [
+            "login",
+            1574
+        ],
+        [
+            "purchase",
+            1373
+        ],
+        [
+            "logout",
+            1143
+        ]
+    ]
+}
