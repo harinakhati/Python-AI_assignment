@@ -1,0 +1,14 @@
+{
+    "added": {
+        "grape": 15
+    },
+    "removed": {
+        "orange": 20
+    },
+    "quantity_changed": {
+        "apple": {
+            "T1": 50,
+            "T2": 45
+        }
+    }
+}
