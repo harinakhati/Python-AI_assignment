@@ -1,0 +1,96 @@
+{
+    "files": [
+        {
+            "path": "/home/marie/code/Python-AI_assignment/assignment_data/contacts.txt",
+            "size": 206,
+            "modified": "2026-02-09 12:35:17"
+        },
+        {
+            "path": "/home/marie/code/Python-AI_assignment/assignment_data/students_raw.csv",
+            "size": 74,
+            "modified": "2026-02-09 12:35:17"
+        },
+        {
+            "path": "/home/marie/code/Python-AI_assignment/assignment_data/users.json",
+            "size": 29615,
+            "modified": "2026-02-09 12:35:17"
+        },
+        {
+            "path": "/home/marie/code/Python-AI_assignment/assignment_data/credentials.csv",
+            "size": 159,
+            "modified": "2026-02-09 12:35:17"
+        },
+        {
+            "path": "/home/marie/code/Python-AI_assignment/assignment_data/inventory_t1.csv",
+            "size": 47,
+            "modified": "2026-02-09 12:35:17"
+        },
+        {
+            "path": "/home/marie/code/Python-AI_assignment/assignment_data/inventory_t2.csv",
+            "size": 46,
+            "modified": "2026-02-09 12:35:17"
+        },
+        {
+            "path": "/home/marie/code/Python-AI_assignment/assignment_data/raw_dump.txt",
+            "size": 161,
+            "modified": "2026-02-09 12:35:17"
+        },
+        {
+            "path": "/home/marie/code/Python-AI_assignment/assignment_data/logs/app1.log",
+            "size": 1822,
+            "modified": "2026-02-09 12:35:17"
+        },
+        {
+            "path": "/home/marie/code/Python-AI_assignment/assignment_data/logs/app2.log",
+            "size": 1782,
+            "modified": "2026-02-09 12:35:17"
+        },
+        {
+            "path": "/home/marie/code/Python-AI_assignment/assignment_data/sample_dir/a.txt",
+            "size": 74,
+            "modified": "2026-02-09 12:35:17"
+        },
+        {
+            "path": "/home/marie/code/Python-AI_assignment/assignment_data/sample_dir/b.log",
+            "size": 74,
+            "modified": "2026-02-09 12:35:17"
+        },
+        {
+            "path": "/home/marie/code/Python-AI_assignment/assignment_data/sample_dir/subdir/c.csv",
+            "size": 74,
+            "modified": "2026-02-09 12:35:17"
+        },
+        {
+            "path": "/home/marie/code/Python-AI_assignment/assignment_data/texts/doc1.txt",
+            "size": 91,
+            "modified": "2026-02-09 12:35:17"
+        },
+        {
+            "path": "/home/marie/code/Python-AI_assignment/assignment_data/texts/doc2.txt",
+            "size": 39,
+            "modified": "2026-02-09 12:35:17"
+        },
+        {
+            "path": "/home/marie/code/Python-AI_assignment/assignment_data/json_data/data1.json",
+            "size": 61,
+            "modified": "2026-02-09 12:35:17"
+        },
+        {
+            "path": "/home/marie/code/Python-AI_assignment/assignment_data/json_data/data2.json",
+            "size": 47,
+            "modified": "2026-02-09 12:35:17"
+        }
+    ],
+    "unique_extensions": [
+        ".json",
+        ".txt",
+        ".csv",
+        ".log"
+    ],
+    "extension_counts": {
+        ".txt": 5,
+        ".csv": 5,
+        ".json": 3,
+        ".log": 3
+    }
+}
